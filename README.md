@@ -19,6 +19,7 @@ The application we are creating will use PostgreSQL database, hence we need to a
 After creating the cartridge, it is possible to check its status with the following command:
 
     rhc cartridge status postgresql-9.2 --app boot
+test
 
 # Step 3: Delete Template Application Source code
 
